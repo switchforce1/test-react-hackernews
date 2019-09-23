@@ -23,6 +23,16 @@
   color: #61dafb;
 }
 
+hr {
+  display: block;
+  border-color: brown;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 5px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
