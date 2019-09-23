@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
 import NewsList from "./NewsList";
-import Menu from './Menu'
 import ListContainer from './ListContainer'
 import Footer from './Footer'
 
